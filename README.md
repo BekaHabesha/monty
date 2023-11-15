@@ -3,7 +3,7 @@
 
 ![My alx. ]( https://i.ibb.co/W3Zw2Yt/Alx-enginn-0x19.jpg)
 
-### *This is a team project on 0x16. C - Simple Shell*
+### *This is a team project on 0x19.C - Stacks, Queues - LIFO, FIFO*
   * ***Done by:***
     * ***Bereket Dereje Mekonnen***
 
