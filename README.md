@@ -1,13 +1,13 @@
 <H1 align="center", height="1500"> <ins> README.md File </ins> </H1>
 <H1 align="center"> <ins>  0x19.C- Stacks, Queues - LIFO, FIFO README.md File </ins> </H1>
 
-![My alx. ]( https://i.ibb.co/542jTbL/Alx-logo-simple-shell.jpg)
+![My alx. ]( https://i.ibb.co/W3Zw2Yt/Alx-enginn-0x19.jpg)
 
 ### *This is a team project on 0x16. C - Simple Shell*
   * ***Done by:***
     * ***Bereket Dereje Mekonnen***
 
-![Beki_Shell.]( https://i.ibb.co/thPqQtY/my-usr-tmp.png)
+![Beki_Shell.]( https://i.ibb.co/6mDGgSp/0x19-1st-struct.png)
 
 * File_name:
     *  <ins>**README.md file**</ins>
@@ -30,7 +30,7 @@
 * Advanced_Tasks:
     *  <ins>**From Task 6 to 19**</ins>
 
-![Beki_Shell.]( https://i.ibb.co/Rv5tqRX/my-for-mid-mid.png)
+![Beki_Shell.]( https://i.ibb.co/mGvWRSR/0x19-2nd-struct.png)
 
 # 
 
