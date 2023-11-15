@@ -6,6 +6,7 @@
 ### *This is a team project on 0x19.C- Stacks, Queues - LIFO, FIFO*
   * ***Done by:***
     * ***Bereket Dereje Mekonnen***
+
 ![monty.]( https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
 
 * File_name:
@@ -28,6 +29,7 @@
     *  <ins>**From Task 0 to 5**</ins>
 * Advanced_Tasks:
     *  <ins>**From Task 6 to 19**</ins>
+
 ![Beki.]( https://i.ibb.co/6mDGgSp/0x19-1st-struct.png)
 
 # 
@@ -88,6 +90,7 @@
 
 
 # The Monty language
+
 ![monty.]( https://i.ibb.co/ZYBmwT1/Monty-heading.png)    
 
 #### The Monty language
@@ -114,6 +117,7 @@
     * **blank lines** (empty or made of spaces only, and 
     * any **additional text** after the **opcode** or 
       * its **required argument** is not taken into account:
+
 ![monty.]( https://i.ibb.co/LS9rW2w/0x19-2nd-monty.png)
  
 #### <ins>The Monty Program</ins>
@@ -421,8 +425,6 @@
           * so that at the end:
             * The top element of the stack contains the result
             * The stack is one element shorter
-
-![Beki.]( https://i.ibb.co/TWsc6kX/Simple-Shell-for-No8.png)
 
 ##
 
