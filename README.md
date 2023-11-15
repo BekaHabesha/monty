@@ -95,7 +95,9 @@
     * It relies on a **unique stack**, with specific instructions to manipulate it. 
   * <ins>**The goal of this project is**</ins>:
     * to create an interpreter for **Monty ByteCodes files**.
+
 ![monty.]( https://i.ibb.co/MBLF7Xh/Monty-java-c-python-pic.jpg)
+
 #### <ins>Monty byte code files</ins>
   * Files containing Monty byte codes usually have the **.m** extension. 
     * Most of the industry uses this standard 
@@ -419,10 +421,9 @@
           * so that at the end:
             * The top element of the stack contains the result
             * The stack is one element shorter
+
 ![Beki.]( https://i.ibb.co/TWsc6kX/Simple-Shell-for-No8.png)
 
-      * From My Simple Shell Output
-![Beki_Shell.]( https://i.ibb.co/2nTpWqS/my-for-front.png)
 ##
 
 ## **No. 9. mod**
