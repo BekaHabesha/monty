@@ -30,8 +30,6 @@
 * Advanced_Tasks:
     *  <ins>**From Task 6 to 19**</ins>
 
-![Beki.]( https://i.ibb.co/6mDGgSp/0x19-1st-struct.png)
-
 # 
 
 ### **PROJECT_TITLE:**
@@ -40,60 +38,46 @@
 ### **GITHUB_REPOSITORY:**
 <h2 align="center"> <ins>monty</ins> </h2>
 
-<h1 align="center">My monty Files</h1>
+![Beki_Shell.]( https://i.ibb.co/6mDGgSp/0x19-1st-struct.png)
 
-## <ins>Table of My monty Project Files</ins>
+<h1 align="center">OPCODES</h1>
 
-| My monty Project Files |    |    | |    |    | |    |    |
-|:---:| :---:| :---: |:---:| :---: | :---: |:---:| :---: | :---: |
-|  |    |    | |    |    | |    |    |
-|  | NO. | File Name | | NO. | File Name | | NO. | File Name |
-|  |    |    | |    |    | |    |    |
-|  | 1 | README.md |  | 12 | char_err.c |  | 23 | sep_list.c | 
-|  | 2 | shell.h |  | 13 | synt_err.c |  | 24 | line_list.c |
-|  | 3 | shell.c |  | 14 | env.c |  | 25 | rvar_list.c |
-|  | 4 | _getbuiltin.c |  | 15 | environ.c |  | 26 | readline.c |
-|  | 5 | _geterror.c |  | 16 | err.c |  | 27 | memo.c |
-|  | 6 | _gethelp.c |  | 17 | error.c |  | 28 | var.c  |
-|  | 7 | _getline.c |  | 18 | exec.c |  | 29 | comm.c |
-|  | 8 | _getsigint.c |  | 19 | exit_shell.c |  | 30 | conv.c |
-|  | 9 | exec_line.c |  | 20 | help_env.c |  | 31 | _strcc.c |
-|  | 10 | cd_shell.c |  | 21 | help_gen.c |  | 32 | _strdlt.c |
-|  | 11 | cddir.c |  | 22 | shell_loop.c |  | 33 | hsh |
-|  |    |    | |    |    | |    |    |
+## <ins>Table of Allowable Opcodes and what they do.</ins>
+
+| Opcodes and what they do |    |    |   |
+|:---:| :---:| :---: |:---| 
+|  |    |    |    |
+|  |    |     |    |
+|  | NO. | Opcode | Function |
+|  |    |     |    |
+|  |    |    |    |
+|  | 1 | push | Add element to the 'top' of stack and 'end' of queue |
+|  | 2 | pop | Remove element from 'top' of stack and 'end' of queue |
+|  | 3 | pall | Print every member of the structure |
+|  | 4 | pint | Prints the member value at the top of stack |
+|  | 5 | swap | Swaps the order of the 1st and 2nd elements in stack |
+|  | 6 | add | Add top two member values |
+|  | 7 | sub | Subtract the top element from the 2nd top element |
+|  | 8 | div | Divide the 2nd element by the top element |
+|  | 9 | mul | Multiply the top two elements of the stack |
+|  | 10 | mod | The remainder when the 2nd element is divided by the top element |
+|  | 11 | comment | The ability to parse comments found in bytecode ->'#' |
+|  | 12 | pchar | Print character at the top of the stack |
+|  | 13 | pstr | Print the character at the top of the stack |
+|  | 14 | rotl | Moves element at the top to the bottom of the stack |
+|  | 15 | rotr | The bottom of the stack becomes the top |
+|  | 16 | queue, stack | Toggles the doubly link list implementation style |
+|  | 17 | nop | Opcode should do nothing |
+|  |    |     |    |
+|  |    |     |    |
 
 ![Beki_Shell.]( https://i.ibb.co/mGvWRSR/0x19-2nd-struct.png)
 
 
-| Exercise Files |    |    | |    |    | |    |    |
-|:---:| :---:| :---: |:---:| :---: | :---: |:---:| :---: | :---: |
-|  |    |    | |    |    | |    |    |
-|  | NO. | File Name | | NO. | File Name | | NO. | File Name |
-|  |    |    | |    |    | |    |    |
-|  | 1 | _getenv.c |  | 17 | fork0.c |  | 33 | shell.c | 
-|  | 2 | add.c |  | 18| fork0_0.c |  | 34 | shell_0.3.c |
-|  | 3 | add1.c |  | 19 | fork0_1.c |  | 35 | stat.c |
-|  | 4 | add2.c |  | 20 | fork_1.c |  | 36 | strtok.c |
-|  | 5 | env-main.c |  | 21 | fork_my_fork.c  |  | 37 | strtok1.c |
-|  | 6 | env_vs_environ.c |  | 22 | fork_my_fork1.c |  | 38 | strtok2.c |
-|  | 7 | environ.c |  | 23 | fork_my_fork2.c |  | 39 | strtok3_without_strtok.c |
-|  | 8 | exec.c |  | 24 | fwe.c  |  | 40 | strtok_1.c |
-|  | 9 | exec0.c |  | 25 | getenv.c |  | 41 | strtok_2.c |
-|  | 10 | exec1.c |  | 26 | no_argc.c |  | 42 | subtract.c |
-|  | 11 | exec2.c |  | 27 | path.c  |  | 43 | sum.c |
-|  | 12 | f_w_e.c |  | 28 | pid.c |  | 44 | sum1.c |
-|  | 13 | f_w_e1.c |  | 29 | ppid.c |  | 45 | sum2.c |
-|  | 14 | f_w_e2.c |  | 30 | prompt.c |  | 46 | sum3.c |
-|  | 15 | find_file.c |  | 31 | prompt0.c |  | 47 | wait.c |
-|  | 16 | fork.c |  | 32 | prompt1.c |  | 48 | wait0.c |      
-|  |    |    | |    |    | |    |    |                     
-
-
 # The Monty language
-
 ![monty.]( https://i.ibb.co/ZYBmwT1/Monty-heading.png)    
 
-#### The Monty language
+### The Monty language
   * **Monty 0.98** is a scripting language that is first compiled into **Monty byte codes** (Just like Python).
     * It relies on a **unique stack**, with specific instructions to manipulate it. 
   * <ins>**The goal of this project is**</ins>:
@@ -101,7 +85,7 @@
 
 ![monty.]( https://i.ibb.co/MBLF7Xh/Monty-java-c-python-pic.jpg)
 
-#### <ins>Monty byte code files</ins>
+### <ins>Monty byte code files</ins>
   * Files containing Monty byte codes usually have the **.m** extension. 
     * Most of the industry uses this standard 
       * but it is not required by the specification of the language. 
@@ -120,7 +104,7 @@
 
 ![monty.]( https://i.ibb.co/LS9rW2w/0x19-2nd-monty.png)
  
-#### <ins>The Monty Program</ins>
+### <ins>The Monty Program</ins>
   * Usage: <ins>**monty file**</ins>
     * where **file** is 
       * the path to the file containing Monty byte code
@@ -273,6 +257,7 @@
         * Use the **atoi** function.
  
 ![monty.]( https://i.ibb.co/0BVsSN5/for-no-0.png)
+
 ###
 
   * <ins>**The pall opcode</ins>**
