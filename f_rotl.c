@@ -17,14 +17,15 @@
  *
  * @head: The head of the stack
  *
- * @n: The new_value
+ * @counter: The line_number
  *
  * Return: no return
  */
 
-void f_rotl(stack_t **head,  __attribute__((unused)) unsigned int counter)
+void f_rotl(stack_t **head, __attribute__((unused)) unsigned int counter)
 {
-	stack_t *tmp = *head, *aux;
+	stack_t *tmp = *head;
+	stack_t *aux;
 
 	if (*head == NULL || (*head)->next == NULL)
 	{
