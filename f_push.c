@@ -24,10 +24,7 @@
 
 void f_push(stack_t **head, unsigned int counter)
 {
-	int n, j, flag;
-
-	int j = 0;
-	int flag = 0;
+	int n, j = 0, flag = 0;
 
 	if (bus.arg)
 	{
