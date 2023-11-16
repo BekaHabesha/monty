@@ -9,9 +9,11 @@
 */
 
 #include "monty.h"
+#define _GNU_SOURCE
+#include <stdio.h>
+#define  _POSIX_C_SOURCE 200809L
 
 bus_t bus = {NULL, NULL, NULL, 0};
-
 /**
  * main - The function for monty code interpreter
  *
@@ -23,7 +25,6 @@ bus_t bus = {NULL, NULL, NULL, 0};
  *
  * Return: 0 on success
  */
-
 int main(int argc, char *argv[])
 {
 	char *content;

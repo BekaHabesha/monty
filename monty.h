@@ -4,11 +4,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
-#include <stddef.h>
 #include <unistd.h>
 #include <fcntl.h>
 #include <string.h>
 #include <ctype.h>
+#include <sys/stat.h>
+#include <sys/wait.h>
+#include <stddef.h>
+#include <time.h>
+#include <errno.h>
+#include <signal.h>
+#include <limits.h>
+#include <stddef.h>
 
 /**
  * struct stack_s - The doubly linked list representation
