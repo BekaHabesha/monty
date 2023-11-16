@@ -1,3 +1,4 @@
+/*
 *
 * File_name: monty_main.c file
 * Functions: int main
@@ -12,7 +13,6 @@
 #include <stdio.h>
 #define _GNU_SOURCE
 #include <stdlib.h>
-#define _POSIX_C_SOURCE >= 200809L
 
 ssize_t getline(char **content, size_t *len, FILE *file);
 bus_t bus = {NULL, NULL, NULL, 0};
