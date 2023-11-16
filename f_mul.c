@@ -1,3 +1,4 @@
+/*
 *
 * File_name: f_mul.c file
 * Functions: void f_mul
