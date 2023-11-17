@@ -538,7 +538,7 @@
 ## **No. 16. Brainf^ck**
   * File:
     * <ins>**1000-school.bf**</ins>
-  * 
+   
   * <ins>**Write a Brainf*ck script that prints School,**</ins>
       * followed by a new line.
     * All your Brainf*ck files should be stored inside the **bf** sub directory.
@@ -554,12 +554,12 @@
 ## **No. 17. Add two digits**
   * File:
     * <ins>**1001-add.bf**</ins>
-  * 
+   
   * <ins>**Add two digits given by the user.**</ins>
     * Read the two digits from stdin, 
       * add them, and 
       * print the result
-    * 
+     
     * The total of the two digits with be 
       * one digit-long (<10).
 
@@ -569,13 +569,13 @@
 
 ## **No. 18. Multiplication**
   * File:
-      * <ins>**1002-mul.bf**</ins>
-  * 
+    * <ins>**1002-mul.bf**</ins>
+   
   * <ins>**Multiply two digits given by the user.**</ins>
     * Read the two digits from stdin, 
       * multiply them, and 
       * print the result
-    * 
+     
     * The result of the multiplication will be
       * one digit-long (<10).
 
@@ -584,8 +584,8 @@
 ##
 
 ## **No. 19. Multiplication level up**
-    * File:
-      * <ins>**1003-mul.bf**</ins>
+  * File:
+    * <ins>**1003-mul.bf**</ins>
    
   * <ins>**Multiply two digits given by the user.**</ins>
     * Read the two digits from stdin, 
