@@ -539,6 +539,7 @@
   *
     * **File:**
       * <ins>**1000-school.bf**</ins>
+
   * <ins>**Write a Brainf*ck script that prints School,**</ins>
       * followed by a new line.
     * All your Brainf*ck files should be stored inside the **bf** sub directory.
@@ -560,7 +561,6 @@
     * Read the two digits from stdin, 
       * add them, and 
       * print the result
-     
     * The total of the two digits with be 
       * one digit-long (<10).
 
@@ -576,8 +576,7 @@
   * <ins>**Multiply two digits given by the user.**</ins>
     * Read the two digits from stdin, 
       * multiply them, and 
-      * print the result
-     
+      * print the result 
     * The result of the multiplication will be
       * one digit-long (<10).
 
