@@ -536,9 +536,9 @@
 ##
 
 ## **No. 16. Brainf^ck**
-### **File:**
+#### **File:**
   * <ins>**1000-school.bf**</ins>
-   
+  * 
   * <ins>**Write a Brainf*ck script that prints School,**</ins>
       * followed by a new line.
     * All your Brainf*ck files should be stored inside the **bf** sub directory.
