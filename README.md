@@ -323,7 +323,7 @@
 ## **No. 4. add**
   * <ins>**Implement the add opcode.**</ins>
   * 
-    * <ins>**The add opcode**</ins>
+  * <ins>**The add opcode**</ins>
       * The opcode **add** adds the top two elements of the stack.
         * Usage: **add**
         * If the stack contains less than two elements, 
@@ -343,7 +343,7 @@
 ## **No. 5. nop**
   * <ins>**Implement the nop opcode.**</ins>
   * 
-    * <ins>**The nop opcode**</ins>
+  * <ins>**The nop opcode**</ins>
       * The opcode **nop** doesn’t do anything.
         * Usage: **nop**
 
@@ -355,7 +355,7 @@
 ## **No. 6. sub**
   * <ins>**Implement the sub opcode.**</ins>
   * 
-    * <ins>**The sub opcode**</ins>
+  * <ins>**The sub opcode**</ins>
       * The opcode **sub** subtracts the top element of the stack from the second top element of the stack.
         * Usage: **sub**
         * If the stack contains less than two elements, 
@@ -377,7 +377,7 @@
 ## **No. 7. div**
   * <ins>**Implement the div opcode.**</ins>
   * 
-    * <ins>**The div opcode**<ins>
+  * <ins>**The div opcode**<ins>
       * The opcode **div** divides the second top element of the stack by the top element of the stack.
         * Usage: **div**
         * If the stack contains less than two elements, 
@@ -396,7 +396,7 @@
 ## **No. 8. mul**
   * <ins>**Implement the mul opcode.**</ins>
   * 
-    * <ins>**The mul opcode**<ins>
+  * <ins>**The mul opcode**<ins>
       * The opcode **mul** multiplies the second top element of the stack with the top element of the stack.
         * Usage: **mul**
         * If the stack contains less than two elements, 
@@ -416,7 +416,7 @@
 ## **No. 9. mod**
   * <ins>**Implement the mod opcode.**</ins>
   * 
-    * <ins>**The mod opcode**</ins>
+  * <ins>**The mod opcode**</ins>
       * The opcode **mod** computes the rest of the division of the second top element of the stack by the top element of the stack.
         * Usage: **mod**
         * If the stack contains less than two elements, 
@@ -447,7 +447,7 @@
 ## **No. 11. pchar**
   * <ins>**Implement the pchar opcode.**</ins>
   * 
-    * <ins>**The pchar opcode**</ins>
+  * <ins>**The pchar opcode**</ins>
       * The opcode **pchar** prints the char at the top of the stack, followed by a new line.
         * Usage: **pchar**
         * The integer stored at the top of the stack is treated as
@@ -472,7 +472,7 @@
 ## **No. 12. pstr**
   * <ins>**Implement the pstr opcode.**</ins>
   * 
-    * <ins>**The pstr opcode**</ins>
+  * <ins>**The pstr opcode**</ins>
       * The opcode **pstr** prints the string starting at the top of the stack, followed by a new line.
         * Usage: **pstr**
         * The integer stored in each element of the stack is treated as
@@ -492,7 +492,7 @@
 ## **No. 13. rotl**
   * <ins>**Implement the rotl opcode.**</ins>
   * 
-    * <ins>**The rotl opcode**</ins>
+  * <ins>**The rotl opcode**</ins>
       * The opcode **rotl**  rotates the stack to the top.
         * Usage: **rotl**
         * The top element of the stack becomes the last one, and 
@@ -506,7 +506,7 @@
 ## **No. 14. rotr**
   * <ins>**Implement the rotr opcode.**</ins>
   * 
-    * <ins>**The rotr opcode**</ins>
+  * <ins>**The rotr opcode**</ins>
       * The opcode **rotr**   rotates the stack to the bottom.
         * Usage: **rotr**
         * The last element of the stack becomes the top element of the stack.
