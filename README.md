@@ -273,15 +273,15 @@
 ## **No. 1. pint**
   * <ins>**Implement the pint opcode.</ins>**
   * 
-    * <ins>**The pint opcode**</ins>
-      * The opcode **pint** prints the value at the top of the stack, followed by a new line.
-        * Usage: **pint**
-        * If the stack is empty,
-          * print the error message **L<line_number>:**
-            * **can't pint**,
-            * **stack empty**, 
-            * followed by a new line, and 
-            * exit with the status **EXIT_FAILURE**
+  * <ins>**The pint opcode**</ins>
+    * The opcode **pint** prints the value at the top of the stack, followed by a new line.
+      * Usage: **pint**
+      * If the stack is empty,
+        * print the error message **L<line_number>:**
+          * **can't pint**,
+          * **stack empty**, 
+          * followed by a new line, and 
+          * exit with the status **EXIT_FAILURE**
 
 ![monty.]( https://i.ibb.co/QpT3vvR/for-no-1.png)
 
@@ -289,8 +289,8 @@
 
 ## **No. 2. pop**
   * <ins>**Implement the pop opcode.+</ins>**
-  * 
-    * <ins>**The pop opcode**</ins>
+  *
+  * <ins>**The pop opcode**</ins>
       * The opcode **pop** removes the top element of the stack.
         * Usage: **pop**
         * If the stack is empty,
@@ -306,7 +306,7 @@
 ## **No. 3. swap**
   * <ins>**Implement the swap opcode.**</ins>
   * 
-    * <ins>**The swap opcode**</ins>
+  * <ins>**The swap opcode**</ins>
       * The opcode **swap** swaps the top two elements of the stack.
         * Usage: **swap**
         * If the stack contains less than two elements, 
