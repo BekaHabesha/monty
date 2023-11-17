@@ -552,8 +552,9 @@
 ##
 
 ## **No. 17. Add two digits**
-  * File:
-    * <ins>**1001-add.bf**</ins>
+  *
+    * File:
+      * <ins>**1001-add.bf**</ins>
    
   * <ins>**Add two digits given by the user.**</ins>
     * Read the two digits from stdin, 
@@ -568,8 +569,9 @@
 ##
 
 ## **No. 18. Multiplication**
-  * File:
-    * <ins>**1002-mul.bf**</ins>
+  *
+    * File:
+      * <ins>**1002-mul.bf**</ins>
    
   * <ins>**Multiply two digits given by the user.**</ins>
     * Read the two digits from stdin, 
@@ -584,8 +586,9 @@
 ##
 
 ## **No. 19. Multiplication level up**
-  * File:
-    * <ins>**1003-mul.bf**</ins>
+  *
+    * File:
+      * <ins>**1003-mul.bf**</ins>
    
   * <ins>**Multiply two digits given by the user.**</ins>
     * Read the two digits from stdin, 
